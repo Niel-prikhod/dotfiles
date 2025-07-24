@@ -1,8 +1,8 @@
 *
 !*/
 !.gitignore
-!nvim/
-!hypr/
-!waybar/
-!kitty/
+!nvim/**
+!hypr/**
+!waybar/**
+!kitty/**
 
