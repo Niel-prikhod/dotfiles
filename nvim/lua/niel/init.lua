@@ -1,3 +1,4 @@
+require("niel.lsp")
 require("niel.set")
 require("niel.remap")
 require("niel.config.lazy")
