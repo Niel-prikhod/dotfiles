@@ -120,4 +120,4 @@ alias sync="syncthing"
 alias get="sudo pacman -S"
 alias pac="sudo pacman"
 alias aur="yay -S"
-
+alias quit="hyprctl dispatch exit"
