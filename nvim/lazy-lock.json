@@ -1,5 +1,5 @@
 {
-  "PDFview": { "branch": "main", "commit": "972dfcce5c0de578865649940f44bf57a700498d" },
+  "42header": { "branch": "master", "commit": "e6e6b191871545e0d43f1aad817070bc806b8fa7" },
   "blink.cmp": { "branch": "main", "commit": "a0bcedefce8d74179d0f2401d9915eaaf16974ce" },
   "fidget.nvim": { "branch": "main", "commit": "4ec7bed6c86b671ddde03ca1b227343cfa3e65fa" },
   "harpoon": { "branch": "master", "commit": "1bc17e3e42ea3c46b33c0bbad6a880792692a1b3" },
